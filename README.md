@@ -9,9 +9,10 @@
 ## Hey! 👋
 I'm Camilo, a 25 years old Software Engineering student from Argentina. I'm studying at the University of Buenos Aires (@fiuba).
 
-I work as an Operational Excellence Intern at ExxonMobil (@exxonmobil). I'm currently using Azure Data Factory (ADF) to modernize an ETL process, building pipelines to transfer data from our on-premises network to the cloud.
-My goal is to learn more about the cloud environment, specifically in data integration, transformation, and automation. I'm passionate about leveraging cloud technologies to optimize workflows, enhance data accessibility, and drive business insights. Through my work with ADF, I'm deepening my knowledge of Azure services, cloud architecture, and scalable data solutions. I'm excited to continue exploring innovative ways to harness the power of the cloud in data engineering.
+<p><em>Software Enginner at <a href="http://www.fi.uba.ar">University of Buenos Aires</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Operational Excellence Intern at <a href="https://www.exxonmobil.com">ExxonMobil</a><img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Exxon_Mobil_Logo.svg/1280px-Exxon_Mobil_Logo.svg.png)" width="30"> 
+</em></p>
 
+I'm currently using Azure Data Factory (ADF) to modernize an ETL process, building pipelines to transfer data from our on-premises network to the cloud. My goal is to learn more about the cloud environment, specifically in data integration, transformation, and automation. I'm passionate about leveraging cloud technologies to optimize workflows, enhance data accessibility, and drive business insights. Through my work with ADF, I'm deepening my knowledge of Azure services, cloud architecture, and scalable data solutions. I'm excited to continue exploring innovative ways to harness the power of the cloud in data engineering.
 
 ## Skills 👨‍💻
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
