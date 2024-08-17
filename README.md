@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=camilofabregas&color=brightgreen)
+<img src="https://badges.pufler.dev/repos/camilofabregas"/>
 [![Linkedin: camilofabregas](https://img.shields.io/badge/-camilofabregas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilofabregas/)](https://www.linkedin.com/in/camilofabregas/)
 [![Instagram: camilo.fabregas](https://img.shields.io/badge/-camilo.fabregas-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/camilo.fabregas/)](https://www.instagram.com/camilo.fabregas/)
 
@@ -9,8 +10,9 @@
 ## Hey! 👋
 I'm Camilo, a 25 years old Software Engineering student from Argentina. I'm studying at the University of Buenos Aires (@fiuba).
 
-<p><em>Software Enginner at <a href="http://www.fi.uba.ar">University of Buenos Aires</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Operational Excellence Intern at <a href="https://www.exxonmobil.com">ExxonMobil</a><img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Exxon_Mobil_Logo.svg/1280px-Exxon_Mobil_Logo.svg.png)" width="30"> 
-</em></p>
+  - <p><em>Software Enginner at <a href="http://www.fi.uba.ar">University of Buenos Aires</a></em></p>
+  
+  - <p><em>Operational Excellence Intern at <a href="https://www.exxonmobil.com">ExxonMobil</a></em></p>
 
 I'm currently using Azure Data Factory (ADF) to modernize an ETL process, building pipelines to transfer data from our on-premises network to the cloud. My goal is to learn more about the cloud environment, specifically in data integration, transformation, and automation. I'm passionate about leveraging cloud technologies to optimize workflows, enhance data accessibility, and drive business insights. Through my work with ADF, I'm deepening my knowledge of Azure services, cloud architecture, and scalable data solutions. I'm excited to continue exploring innovative ways to harness the power of the cloud in data engineering.
 
