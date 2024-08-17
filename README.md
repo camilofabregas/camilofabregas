@@ -14,7 +14,7 @@ I'm Camilo, a 25 years old Software Engineering student from Argentina..
   
   - <p><em>Operational Excellence Intern at <a href="https://www.exxonmobil.com">ExxonMobil</a></em></p>
 
-I'm currently using Azure Data Factory (ADF) to modernize an ETL process, building pipelines to transfer data from our on-premises network to the cloud. My goal is to learn more about the cloud environment, specifically in data integration, transformation, and automation. I'm passionate about leveraging cloud technologies to optimize workflows, enhance data accessibility, and drive business insights. Through my work with ADF, I'm deepening my knowledge of Azure services, cloud architecture, and scalable data solutions. I'm excited to continue exploring innovative ways to harness the power of the cloud in data engineering.
+I'm currently using Azure Data Factory (ADF) to modernize an ETL process, building pipelines to transfer data from our on-premises network to the cloud. My goal is to learn more about the cloud environment, specifically in Azure services, cloud architecture, and scalable data solutions. I'm excited to continue exploring innovative ways to harness the power of the cloud in data engineering.
 
 ## Skills 👨‍💻
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
