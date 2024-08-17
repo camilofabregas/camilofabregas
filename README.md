@@ -8,7 +8,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Camilo, a 25 years old Software Engineering student from Argentina. I'm studying at the University of Buenos Aires (@fiuba).
+I'm Camilo, a 25 years old Software Engineering student from Argentina..
 
   - <p><em>Software Enginner at <a href="http://www.fi.uba.ar">University of Buenos Aires</a></em></p>
   
