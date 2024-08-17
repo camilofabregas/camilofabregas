@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=camilofabregas&color=brightgreen)
 <img src="https://badges.pufler.dev/repos/camilofabregas"/>
 [![Linkedin: camilofabregas](https://img.shields.io/badge/-camilofabregas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilofabregas/)](https://www.linkedin.com/in/camilofabregas/)
-[![Instagram: camilo.fabregas](https://img.shields.io/badge/-camilo.fabregas-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/camilo.fabregas/)](https://www.instagram.com/camilo.fabregas/)
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/camilofabregas/camilofabregas/master/name.svg" alt="Camilo Fabregas" />
