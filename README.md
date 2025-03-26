@@ -7,11 +7,11 @@
 </h1>
 
 ## Hey! 👋
-I'm Camilo, a 25 years old Software Engineering student from Argentina.
+I'm Camilo, a 26 years old Software Engineering student from Argentina.
 
   - <p><em>Software Enginner at <a href="http://www.fi.uba.ar">University of Buenos Aires</a></em></p>
   
-  - <p><em>Operational Excellence Intern at <a href="https://www.exxonmobil.com">ExxonMobil</a></em></p>
+  - <p><em>Operational Excellence Analyst at <a href="https://www.exxonmobil.com">ExxonMobil</a></em></p>
 
 I'm currently using Azure Data Factory (ADF) to modernize an ETL process, building pipelines to transfer data from our on-premises network to the cloud. My goal is to learn more about the cloud environment, specifically in Azure services, cloud architecture, and scalable data solutions. I'm excited to continue exploring innovative ways to harness the power of the cloud in data engineering.
 
